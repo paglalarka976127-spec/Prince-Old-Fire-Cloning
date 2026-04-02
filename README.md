@@ -25,6 +25,11 @@
 
 ---
 
+# Results
+<img src="https://github.com/Prince-Khof-Mackr/Prince-Old-Fire-Cloning/tree/main/screenshot.jpg" />
+<img src="https://github.com/YounisXyz/OLD-FB/blob/main/images/2.jpg" />
+
+
 ## 📥 𝖨𝖭𝖲𝖳𝖠𝖫𝖫𝖠𝖳𝖨𝖮𝖭 (𝖳𝖤𝖱𝖬𝖴𝖷)
 
 ```bash
