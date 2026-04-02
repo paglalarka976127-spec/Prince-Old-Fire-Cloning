@@ -27,8 +27,6 @@
 
 ## 📥 𝖨𝖭𝖲𝖳𝖠𝖫𝖫𝖠𝖳𝖨𝖮𝖭 (𝖳𝖤𝖱𝖬𝖴𝖷)
 
-Niche diye gaye commands ko copy karein aur Termux mein paste karein:
-
 ```bash
 # Update System
 apt update && apt upgrade -y
