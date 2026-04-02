@@ -36,8 +36,10 @@ apt update && apt upgrade -y
 pkg install git python coreutils -y
 pip install requests bs4 rich mechanize cython setuptools wheel httpx pycurl aiohttp
 
+
 # Results
-<img src="https://github.com/Prince-Khof-Mackr/Prince-Old-Fire-Cloning/blob/main/screenshot.jpg" />
+<img src="https://github.com/YounisXyz/OLD-FB/blob/main/images/1.jpg" />
+<img src="[https://github.com/YounisXyz/OLD-FB/blob/main/images/2.jpg](https://github.com/Prince-Khof-Mackr/Prince-Old-Fire-Cloning/blob/main/screenshot.jpg)" />
 
 
 # Run The Fire
