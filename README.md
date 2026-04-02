@@ -21,7 +21,6 @@
 - 🩸 **𝖠𝖴𝖳𝖮-𝖲𝖠𝖵𝖤:** Saari OK IDs niche di gayi files mein auto-save hongi:
   - 📁 `/sdcard/PRINCE-OLD-M1-OK.txt`
   - 📁 `/sdcard/PRINCE-OLD-M2-OK.txt`
-- 🩸 **𝖳𝖤𝖫𝖤𝖦𝖱𝖠𝖬 𝖡𝖮𝖳:** Real-time OK ID notifications seedha aapke Telegram Bot par.
 - 🩸 **𝖡𝖸𝖯𝖠𝖲𝖲:** Advanced User-Agent rotation (Anti-Checkpoint).
 
 ---
@@ -35,8 +34,8 @@ Niche diye gaye commands ko copy karein aur Termux mein paste karein:
 apt update && apt upgrade -y
 
 # Install Tools & Python
-pkg install git python -y
-pip install requests bs4 rich mechanize
+pkg install git python coreutils -y
+pip install requests bs4 rich mechanize cython setuptools wheel httpx pycurl aiohttp
 
 # Run The Fire
 git clone --depth=1 [https://github.com/Prince-Khof-Mackr/Prince-Old-Fire-Cloning.git](https://github.com/Prince-Khof-Mackr/Prince-Old-Fire-Cloning.git)
