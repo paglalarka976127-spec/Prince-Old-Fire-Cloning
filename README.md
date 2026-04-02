@@ -26,7 +26,7 @@
 ---
 
 # Results
-<img src="https://github.com/Prince-Khof-Mackr/Prince-Old-Fire-Cloning/tree/main/screenshot.jpg" />
+<img src="https://github.com/Prince-Khof-Mackr/Prince-Old-Fire-Cloning/blob/main/screenshot.jpg" />
 <img src="https://github.com/YounisXyz/OLD-FB/blob/main/images/2.jpg" />
 
 
