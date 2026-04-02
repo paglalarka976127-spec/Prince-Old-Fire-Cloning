@@ -17,10 +17,11 @@
 ---
 
 ## 🔥 𝗘𝗟𝗜𝗧𝗘 𝗖𝗬𝗕𝗘𝗥 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦
-- 🩸 **𝖮𝖫𝖣 𝖨𝖨𝖣𝖹:** 2004 se 2015 tak ki purani IDs ka specialized logic.
+- 🩸 **𝖮𝖫𝖣 𝖨𝖨𝖣𝖹:** 2004 se 2024 tak ki purani IDs ka specialized logic.
 - 🩸 **𝖠𝖴𝖳𝖮-𝖲𝖠𝖵𝖤:** Saari OK IDs niche di gayi files mein auto-save hongi:
   - 📁 `/sdcard/PRINCE-OLD-M1-OK.txt`
   - 📁 `/sdcard/PRINCE-OLD-M2-OK.txt`
+- 🩸 **𝖳𝖤𝖫𝖤𝖦𝖱𝖠𝖬 𝖡𝖮𝖳:** Real-time OK ID notifications seedha aapke Telegram Bot par.
 - 🩸 **𝖡𝖸𝖯𝖠𝖲𝖲:** Advanced User-Agent rotation (Anti-Checkpoint).
 
 ---
