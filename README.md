@@ -26,6 +26,12 @@
 ---
 
 
+# Results
+<img src="https://github.com/YounisXyz/OLD-FB/blob/main/images/1.jpg" />
+<img src="https://github.com/Prince-Khof-Mackr/Prince-Old-Fire-Cloning/blob/main/screenshot.jpg" />
+
+
+
 ## 📥 𝖨𝖭𝖲𝖳𝖠𝖫𝖫𝖠𝖳𝖨𝖮𝖭 (𝖳𝖤𝖱𝖬𝖴𝖷)
 
 ```bash
@@ -35,11 +41,6 @@ apt update && apt upgrade -y
 # Install Tools & Python
 pkg install git python coreutils -y
 pip install requests bs4 rich mechanize cython setuptools wheel httpx pycurl aiohttp
-
-
-# Results
-<img src="https://github.com/YounisXyz/OLD-FB/blob/main/images/1.jpg" />
-<img src="[https://github.com/YounisXyz/OLD-FB/blob/main/images/2.jpg](https://github.com/Prince-Khof-Mackr/Prince-Old-Fire-Cloning/blob/main/screenshot.jpg)" />
 
 
 # Run The Fire
