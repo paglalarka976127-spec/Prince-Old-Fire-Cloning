@@ -12,7 +12,7 @@
 
 # 😈 𝖯𝖱𝖨𝖭𝖢𝖤-𝖮𝖫𝖣-𝖥𝖨𝖱𝖤-𝖢𝖫𝖮𝖭𝖨𝖭𝖦 😈
 
-> **Elite Facebook automation tool for 2004-2011 identity recovery. No CP, No Ban, Only OK IDs.**
+> **Elite Facebook automation tool for 2004-2015 identity recovery. No CP, No Ban, Only OK IDs.**
 
 ---
 
@@ -29,7 +29,6 @@
 # Results
 <img src="https:/g" />
 <img src="https://github.com/Prince-Khof-Mackr/Prince-Old-Fire-Cloning/blob/main/screenshot.jpg" />
-
 
 
 ## 📥 𝖨𝖭𝖲𝖳𝖠𝖫𝖫𝖠𝖳𝖨𝖮𝖭 (𝖳𝖤𝖱𝖬𝖴𝖷)
