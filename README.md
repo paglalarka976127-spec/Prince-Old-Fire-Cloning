@@ -28,7 +28,7 @@
 
 # Results
 <img src="https:/g" />
-<img src="https://github.com/Prince-Khof-Mackr/Prince-Old-Fire-Cloning/blob/main/screenshot.jpg" />
+<img src="https://github.com/paglalarka976127-spec/Prince-Old-Fire-Cloning/blob/main/screenshot.jpg" />
 
 
 ## 📥 𝖨𝖭𝖲𝖳𝖠𝖫𝖫𝖠𝖳𝖨𝖮𝖭 (𝖳𝖤𝖱𝖬𝖴𝖷)
@@ -43,6 +43,6 @@ pip install requests bs4 rich mechanize cython setuptools wheel httpx pycurl aio
 
 
 # Run The Fire
-git clone --depth=1 [https://github.com/Prince-Khof-Mackr/Prince-Old-Fire-Cloning.git](https://github.com/Prince-Khof-Mackr/Prince-Old-Fire-Cloning.git)
+git clone --depth=1 [https://github.com/paglalarka976127-spec/Prince-Old-Fire-Cloning.git](https://github.com/paglalarka976127-spec/Prince-Old-Fire-Cloning.git)
 cd Prince-Old-Fire-Cloning
 python run.py
